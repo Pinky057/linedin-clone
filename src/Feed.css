@@ -32,3 +32,7 @@
 .feed_input > form > button{
  display: none;
 }
+.feed_inputOptions{
+    display: flex;
+    justify-content: space-evenly;
+}
